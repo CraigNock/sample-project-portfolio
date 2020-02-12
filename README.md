@@ -18,7 +18,7 @@ It's high time you started to show off all of the stuff you've been doing!
 - Create a folder for each of the projets. _Whatever you name it will be the url that links to it._
 - Inside of that folder, add your `html`, `css`, and `js`. You can simply copy/paste the files from the workshop. Make sure that the HTML file is named `index` as well. It will prevent you from having to create an even longer url.
 
-### Surge
+### [Surge](https://surge.sh/)
 
 Install `surge`
 
